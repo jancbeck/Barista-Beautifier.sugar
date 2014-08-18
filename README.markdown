@@ -30,14 +30,14 @@ If you do not have a selection, the entire document will be processed.
 
 ## Development
 
-Barista-Beautifier.sugar is a fork of [FrenchPress.sugar](http://github.com/switz/FrenchPress.sugar) by switz who did all the hard work. This sugar basically just extends the support for HTML und CSS. The library by JS Beautifier is nearly untouched except that global variables JS have been removed. Espresso doesn't seem to like them very much.
+Barista-Beautifier.sugar is a fork of [FrenchPress.sugar](http://github.com/switz/FrenchPress.sugar) by switz who did all the hard work. This sugar basically just extends the support for HTML and CSS. The library by JS Beautifier is nearly untouched except that global variables JS have been removed. Espresso doesn't seem to like them very much.
 
-Barista-Beautifier.sugar is written entirely in XML and JavaScript using Espresso's [JavaScript API](http://wiki.macrabbit.com/index/JavaScriptActions/)! Feel free to mess around with the code or fork it on github!
+Barista-Beautifier.sugar is written entirely in XML and JavaScript using Espresso's [JavaScript API](http://wiki.macrabbit.com/index/JavaScriptActions/)! Feel free to mess around with the code or fork it on GitHub!
 
 ## To do
 * Add PHP support
-* Seperate CSS property and value by spacing. List grouped CSS rules on seperate lines.
-* Don't display text-level inline HTML elements in seperate lines.
+* Separate CSS property and value by spacing. List grouped CSS rules on separate lines.
+* Don't display text-level inline HTML elements in separate lines.
 
 ## Changelog
 
@@ -67,7 +67,7 @@ Originally converted to JavaScript by [Vital](mailto:vital76@gmail.com)
 
 ## MIT License
 
-Copyright (c) 2012 Jan Beck
+Copyright (c) 2012-2014 Jan Beck
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
