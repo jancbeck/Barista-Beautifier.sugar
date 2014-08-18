@@ -16,7 +16,7 @@ action.performWithContext = function(context, outError) {
 	  'indent_char': '\t'
 	};
 	//beautify the text
-	text = beautify(text);
+	text = beautify(text, options);
 	//insert!
 	var recipe = new CETextRecipe();
 	recipe.replaceRange(range, text);
